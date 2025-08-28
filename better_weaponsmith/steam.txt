@@ -7,27 +7,27 @@ This mod significantly enhances all racial weaponsmiths in Soulash 2, making the
 [list]
 [*] [b]Before:[/b] Most weaponsmiths knew only 4-18 recipes and were very limited.
 [*] [b]After:[/b] All weaponsmiths now know 26-38 recipes and are genuinely valuable.
-[*] [b]Coverage:[/b] Every smith can now craft basic versions of all weapon types.
+[*] [b]Key Addition:[/b] Basic weapons (knives, hammers, darts, brass knuckles) added to ALL factions.
 [*] [b]Mushman Fixed:[/b] The Mushman Weaponsmith is no longer useless, going from 4 recipes to 26!
 [/list]
 
 [hr][/hr]
 
-[h1]Racial Specializations[/h1]
-Every race now has a full progression path culminating in a unique, high-level signature weapon.
+[h1]Racial Specializations & Added Recipes[/h1]
+Every weaponsmith now has access to essential basic weapons while maintaining their racial specializations:
 
 [list]
-[*] 🏰 [b]Human:[/b] Master of Swords → 🗡️ [i]Spiked Sword[/i] (Lvl 50)
-[*] ⚒️ [b]Dwarf:[/b] Master of Axes & Hammers → 🔨 [i]War Hammer[/i] (Lvl 47)
-[*] 🗡️ [b]Goblin:[/b] Jack-of-all-trades → 🌪️ [i]Vortex Disc[/i] (Lvl 50)
-[*] 🪓 [b]Orc:[/b] Brutal Combat Specialist → 🪓 [i]Giant Axe[/i] (Lvl 50)
-[*] 🔨 [b]Troll:[/b] Crushing Weapons Expert → 🔨 [i]War Hammer[/i] (Lvl 47)
-[*] 🗡️ [b]Rasimi:[/b] Exotic & Agile Blades → 🪶 [i]Feather Spear[/i] (Lvl 50)
-[*] 💀 [b]Skeleton:[/b] Bone & Dark Artifacts → 👑 [i]Pharaoh Dagger[/i] (Lvl 50)
-[*] 🐕 [b]Gnoll:[/b] Hunting & Pack Weapons → ⚔️ [i]Dark Blade[/i] (Lvl 41)
-[*] 🍄 [b]Mushman:[/b] Nature & Tools → 👊 [i]Brass Knuckles[/i] (Lvl 12)
-[*] 🦎 [b]Reptilion:[/b] Spears & Polearms → ⚔️ [i]Halberd[/i] (Lvl 50)
-[*] 🐻 [b]Ursan:[/b] Sturdy & Survival Weapons → 👊 [i]Metal Fist[/i] (Lvl 40)
+[*] 🏰 [b]Human:[/b] [i]Sword Masters[/i] - Specialize in all sword types (swords, sabres, katanas, greatswords) + basic weapons (35 total recipes)
+[*] ⚒️ [b]Dwarf:[/b] [i]Axe & Hammer Experts[/i] - Masters of axes, hammers, and picks + basic weapons (30 total recipes)
+[*] 🗡️ [b]Goblin:[/b] [i]Versatile Crafters[/i] - Jack-of-all-trades with tools, bone weapons, and diverse combat gear (38 total recipes)
+[*] 🪓 [b]Orc:[/b] [i]Heavy Weapon Specialists[/i] - Focus on heavy axes, clubs, hammers, and brutal weapons (34 total recipes)
+[*] 🍄 [b]Mushman:[/b] [i]Tool & Agricultural Focus[/i] - Farming tools, basic weapons, and utility items (26 total recipes)
+[*] 🗡️ [b]Rasimi:[/b] [i]Exotic Blade Artists[/i] - Ceremonial daggers, curved swords, and specialized spears (34 total recipes)
+[*] 💀 [b]Skeleton:[/b] [i]Bone & Dark Artifacts[/i] - Bone weapons, ceremonial items, and dark blades (28 total recipes)
+[*] 🐕 [b]Gnoll:[/b] [i]Hunting & Pack Weapons[/i] - Throwing weapons, bone items, and pack hunting gear (26 total recipes)
+[*] 🔨 [b]Troll:[/b] [i]Crushing Weapons[/i] - Heavy clubs, mauls, and massive two-handed weapons (30 total recipes)
+[*] 🦎 [b]Reptilion:[/b] [i]Spear & Polearm Masters[/i] - Specialized in spears, javelins, and ceremonial blades (28 total recipes)
+[*] 🐻 [b]Ursan:[/b] [i]Survival & Fist Weapons[/i] - Knuckle weapons, survival tools, and sturdy combat gear (26 total recipes)
 [/list]
 
 [hr][/hr]
@@ -57,3 +57,10 @@ NPCs in Soulash 2 learn recipes based on their level. They [b]do NOT[/b] go back
 [*] [b]Overwrites:[/b] The specific weaponsmith entities for each race.
 [*] [b]Compatible:[/b] Should work with most other mods that do not edit the same entities.
 [/list]
+
+[hr][/hr]
+
+[h1]Contributing[/h1]
+Contributions for this mod are welcomed at [url=https://github.com/Karabiy/soulash2/]https://github.com/Karabiy/soulash2/[/url]
+
+Feel free to submit issues, suggestions, or pull requests to help improve this mod!

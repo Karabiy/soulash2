@@ -20,4 +20,11 @@ It replaces the original crafting recipe, allowing you to use common Silk instea
 [*] [b]Safe to Disable:[/b] If you suspect this mod is causing a crash, it can be safely removed. To do so, find your save file, open the [b]general.json[/b] file, and remove this mod's ID from the list.
 [/list]
 
+[hr][/hr]
+
+[h2]Contributing[/h2]
+Contributions for this mod are welcomed at [url=https://github.com/Karabiy/soulash2/]https://github.com/Karabiy/soulash2/[/url]
+
+Feel free to submit issues, suggestions, or pull requests to help improve this mod!
+
 [i]Enjoy your spider-free crafting![/i]

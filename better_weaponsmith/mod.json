@@ -1,6 +1,6 @@
 {
 	"author": "Vladyslav",
-	"description": "Significantly enhances all racial weaponsmiths with expanded recipe collections while maintaining their cultural specializations. Each weaponsmith now knows 25-38 different weapons instead of the original 4-30, making them much more useful and versatile. BEST USED WITH NEW GAMES: NPCs gain recipes on achievement of particular skill-level based milestones based on their occupation and current level - existing high-level NPCs may miss some recipes, but new weaponsmiths will get the full enhanced skillset.",
+	"description": "Significantly enhances all racial weaponsmiths by adding essential basic weapons (knives, hammers, darts, brass knuckles) to every faction while preserving their unique specializations. Each weaponsmith now knows 26-38 different weapons instead of the original 4-30, making them much more useful and versatile. Mushman weaponsmiths are greatly improved from 4 to 26 recipes. BEST USED WITH NEW GAMES: NPCs gain recipes based on skill-level milestones - existing high-level NPCs may miss some basic recipes, but new weaponsmiths will get the full enhanced skillset.",
 	"game_required": "0.9.8.3",
 	"icon": "thumbnail.png",
 	"mods_required": [
