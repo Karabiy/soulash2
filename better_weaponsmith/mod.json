@@ -1,0 +1,13 @@
+{
+	"author": "Vladyslav",
+	"description": "Significantly enhances all racial weaponsmiths with expanded recipe collections while maintaining their cultural specializations. Each weaponsmith now knows 25-38 different weapons instead of the original 4-30, making them much more useful and versatile. BEST USED WITH NEW GAMES: NPCs gain recipes on achievement of particular skill-level based milestones based on their occupation and current level - existing high-level NPCs may miss some recipes, but new weaponsmiths will get the full enhanced skillset.",
+	"game_required": "0.9.8.3",
+	"icon": "thumbnail.png",
+	"mods_required": [
+		"core_2"
+	],
+	"name": "Better Weaponsmith",
+	"steam_publish_id": 3557698099,
+	"thumbnail": "thumbnail.png",
+	"version": "0.0.1"
+}

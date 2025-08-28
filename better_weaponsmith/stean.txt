@@ -1,0 +1,59 @@
+[h1]Overview[/h1]
+This mod significantly enhances all racial weaponsmiths in Soulash 2, making them much more useful and versatile while preserving their unique cultural specializations and weapon progression.
+
+[hr][/hr]
+
+[h1]Core Changes[/h1]
+[list]
+[*] [b]Before:[/b] Most weaponsmiths knew only 4-18 recipes and were very limited.
+[*] [b]After:[/b] All weaponsmiths now know 26-38 recipes and are genuinely valuable.
+[*] [b]Coverage:[/b] Every smith can now craft basic versions of all weapon types.
+[*] [b]Mushman Fixed:[/b] The Mushman Weaponsmith is no longer useless, going from 4 recipes to 26!
+[/list]
+
+[hr][/hr]
+
+[h1]Racial Specializations[/h1]
+Every race now has a full progression path culminating in a unique, high-level signature weapon.
+
+[list]
+[*] 🏰 [b]Human:[/b] Master of Swords → 🗡️ [i]Spiked Sword[/i] (Lvl 50)
+[*] ⚒️ [b]Dwarf:[/b] Master of Axes & Hammers → 🔨 [i]War Hammer[/i] (Lvl 47)
+[*] 🗡️ [b]Goblin:[/b] Jack-of-all-trades → 🌪️ [i]Vortex Disc[/i] (Lvl 50)
+[*] 🪓 [b]Orc:[/b] Brutal Combat Specialist → 🪓 [i]Giant Axe[/i] (Lvl 50)
+[*] 🔨 [b]Troll:[/b] Crushing Weapons Expert → 🔨 [i]War Hammer[/i] (Lvl 47)
+[*] 🗡️ [b]Rasimi:[/b] Exotic & Agile Blades → 🪶 [i]Feather Spear[/i] (Lvl 50)
+[*] 💀 [b]Skeleton:[/b] Bone & Dark Artifacts → 👑 [i]Pharaoh Dagger[/i] (Lvl 50)
+[*] 🐕 [b]Gnoll:[/b] Hunting & Pack Weapons → ⚔️ [i]Dark Blade[/i] (Lvl 41)
+[*] 🍄 [b]Mushman:[/b] Nature & Tools → 👊 [i]Brass Knuckles[/i] (Lvl 12)
+[*] 🦎 [b]Reptilion:[/b] Spears & Polearms → ⚔️ [i]Halberd[/i] (Lvl 50)
+[*] 🐻 [b]Ursan:[/b] Sturdy & Survival Weapons → 👊 [i]Metal Fist[/i] (Lvl 40)
+[/list]
+
+[hr][/hr]
+
+[h1]Installation[/h1]
+[olist]
+[*] Place this mod in your Soulash 2 mods folder.
+[*] Ensure `core_2` is enabled (required dependency).
+[*] Enable "Better Smith Enhanced" in your mod list.
+[*] [b]A NEW GAME IS STRONGLY RECOMMENDED[/b] for the best experience.
+[/olist]
+
+[hr][/hr]
+
+[h1]Important Notes for Existing Saves[/h1]
+NPCs in Soulash 2 learn recipes based on their level. They [b]do NOT[/b] go back to learn low-level recipes they missed.
+[list]
+[*] [b]What this means:[/b] High-level smiths in an existing save will miss the new low-level recipes from this mod. Only newly spawned smiths will have the complete, correct list.
+[*] [b]Solution:[/b] Start a new game to ensure all weaponsmiths have their full, enhanced recipe collection from level 1 or continue your current game, so that new Weaponsmiths will gain all the new recipes available.
+[/list]
+
+[hr][/hr]
+
+[h1]Compatibility[/h1]
+[list]
+[*] [b]Requires:[/b] Core_2 mod.
+[*] [b]Overwrites:[/b] The specific weaponsmith entities for each race.
+[*] [b]Compatible:[/b] Should work with most other mods that do not edit the same entities.
+[/list]

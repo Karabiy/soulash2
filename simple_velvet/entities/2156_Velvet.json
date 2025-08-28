@@ -1,0 +1,85 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"statistics",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 4,
+				"id": "2155"
+			}
+			
+		],
+		"time": 25,
+		"tools": [
+			12
+		]
+	},
+	"description": "Probably the smoothest material produced by mortal hands. This velvet is crafted from regular silk instead of spider silk, making it much easier to obtain for marriage ceremonies.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1457
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2156",
+	"item": {
+		"image": 482,
+		"type": 16
+	},
+	"minimap_pixel": [
+		200,
+		200,
+		200
+	],
+	"name": "Velvet",
+	"resource": {
+		"affix": "Velvet",
+		"magic_ingredient": 0,
+		"quality": 2,
+		"type": 4
+	},
+	"statistics": {
+		"dexterity": [
+			0,
+			0
+		],
+		"endurance": [
+			0,
+			0
+		],
+		"intelligence": [
+			1,
+			1
+		],
+		"strength": [
+			0,
+			0
+		],
+		"willpower": [
+			0,
+			0
+		]
+	},
+	"value": 2400,
+	"weight": 0.10000000149011612
+}
