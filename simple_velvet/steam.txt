@@ -1,0 +1,23 @@
+[h1]Simple Velvet Crafting[/h1]
+
+Tired of hunting for spiders just to craft Velvet? This is especially tedious on your second or third character. This simple quality-of-life mod makes Velvet much more accessible.
+
+It replaces the original crafting recipe, allowing you to use common Silk instead of rare Spider's Silk.
+
+[hr][/hr]
+
+[h2]Recipe Change[/h2]
+[list]
+[*] [b]Old Recipe:[/b] 2 x Spider's Silk → Velvet
+[*] [b]New Recipe:[/b] 4 x Silk → Velvet
+[/list]
+
+[hr][/hr]
+
+[h2]Important Notes[/h2]
+[list]
+[*] This mod directly alters the Velvet recipe. If a future game update changes Velvet's properties, this mod may need an update to be compatible.
+[*] [b]Safe to Disable:[/b] If you suspect this mod is causing a crash, it can be safely removed. To do so, find your save file, open the [b]general.json[/b] file, and remove this mod's ID from the list.
+[/list]
+
+[i]Enjoy your spider-free crafting![/i]
