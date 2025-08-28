@@ -114,7 +114,24 @@
 	},
 	"skills": {
 		"milestones": [
-			"core_2_short_sword",
+            "core_2_knife",
+            "core_2_dagger",
+            "core_2_hammer",
+            "core_2_throwing_knife",
+            "core_2_slaughter_sword",
+            "core_2_jeweled_dagger",
+            "core_2_runic_dagger",
+            "core_2_pharaoh_dagger",
+            "core_2_katana",
+            "core_2_sabre",
+            "core_2_snake_sword",
+            "core_2_flame_sword",
+            "core_2_toothed_sword",
+            "core_2_hand_axe",
+            "core_2_awl_pike",
+            "core_2_dart",
+            "core_2_brass_knuckles",
+            "core_2_short_sword",
 			"core_2_dagger",
 			"core_2_weapon_stand",
 			"core_2_gladius",
@@ -131,8 +148,8 @@
 			"core_2_engraved_greatsword",
 			"core_2_greatsword",
 			"core_2_spadone_sword",
-			"core_2_bastard_sword"
-		],
+            "core_2_bastard_sword"
+        ],
 		"skills": [
 			"core_2_weaponsmith"
 		]
