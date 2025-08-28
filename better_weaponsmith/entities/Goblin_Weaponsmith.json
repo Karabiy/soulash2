@@ -118,6 +118,16 @@
 	},
 	"skills": {
 		"milestones": [
+			"core_2_knife",
+			"core_2_hammer",
+			"core_2_pickaxe",
+			"core_2_shovel",
+			"core_2_hatchet",
+			"core_2_scissors",
+			"core_2_weapon_stand",
+			"core_2_throwing_knife",
+			"core_2_bone_blade",
+			"core_2_throwing_axe",
 			"core_2_bandit_knife",
 			"core_2_battle_axe",
 			"core_2_bone_axe",
