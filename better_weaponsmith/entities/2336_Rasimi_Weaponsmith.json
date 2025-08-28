@@ -1,0 +1,147 @@
+{
+	"artificial_intelligence": {
+		"allies": [
+			"28"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"consumer",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"skills",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "2327",
+	"description": "",
+	"dialogues": [
+		"462",
+		"463"
+	],
+	"equipment": {
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "151",
+				"name": "Hammer",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 10,
+		"level": 2
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 84
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 130,
+	"humanoid": {
+		"race": "10"
+	},
+	"id": "2336",
+	"minimap_pixel": [
+		211,
+		165,
+		136
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Rasimi Weaponsmith",
+	"persona": {
+		"occupation": "Weaponsmith"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 10,
+		"threesixty": false
+	},
+	"skills": {
+		"milestones": [
+			"core_2_dagger",
+			"core_2_throwing_knife",
+			"core_2_cinquedea",
+			"core_2_kukri",
+			"core_2_chopper",
+			"core_2_kama",
+			"core_2_khopesh",
+			"core_2_assasin_blade",
+			"core_2_dao_sword",
+			"core_2_awl_pike",
+			"core_2_billhook",
+			"core_2_dory",
+			"core_2_feather_spear",
+			"core_2_leaf_spear",
+			"core_2_ranseur_spear",
+			"core_2_spontoon"
+		],
+		"skills": [
+			"core_2_weaponsmith"
+		]
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			18,
+			23
+		],
+		"endurance": [
+			15,
+			19
+		],
+		"intelligence": [
+			10,
+			14
+		],
+		"strength": [
+			14,
+			17
+		],
+		"willpower": [
+			11,
+			15
+		]
+	},
+	"tags": [
+		"9",
+		"28"
+	]
+}

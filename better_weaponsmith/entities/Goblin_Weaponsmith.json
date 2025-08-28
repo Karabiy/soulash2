@@ -1,0 +1,187 @@
+{
+	"artificial_intelligence": {
+		"allies": [
+			"0",
+			"11",
+			"12"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"consumer",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"skills",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "560",
+	"description": "",
+	"dialogues": [
+		"796",
+		"802"
+	],
+	"equipment": {
+		"gloves": [
+			{
+				"chance": 1.0,
+				"id": "193",
+				"name": "Leather Gloves",
+				"stack": 1
+			}
+		],
+		"legs_cloth": [
+			{
+				"chance": 1.0,
+				"id": "188",
+				"name": "Leather Pants",
+				"stack": 1
+			}
+		],
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "151",
+				"name": "Hammer",
+				"stack": 1
+			}
+		],
+		"torso_cloth": [
+			{
+				"chance": 0.800000011920929,
+				"id": "708",
+				"name": "Leather Apron",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 5,
+		"level": 1
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 0
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 70,
+	"humanoid": {
+		"race": "4"
+	},
+	"id": "core_2_Goblin_Weaponsmith",
+	"minimap_pixel": [
+		176,
+		196,
+		222
+	],
+	"moveable": {
+		"speed": 1.100000023841858
+	},
+	"name": "Goblin Weaponsmith",
+	"persona": {
+		"occupation": "Weaponsmith"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 10,
+		"threesixty": false
+	},
+	"skills": {
+		"milestones": [
+			"core_2_bandit_knife",
+			"core_2_battle_axe",
+			"core_2_bone_axe",
+			"core_2_bone_mace",
+			"core_2_claymore",
+			"core_2_dagger",
+			"core_2_dark_blade",
+			"core_2_executioners_axe",
+			"core_2_gladius",
+			"core_2_longsword",
+			"core_2_mace",
+			"core_2_rapier",
+			"core_2_sceptre",
+			"core_2_short_sword",
+			"core_2_spiked_sword",
+			"core_2_sword",
+			"core_2_bone_javelin",
+			"core_2_bone_throwing_axe",
+			"core_2_dart",
+			"core_2_war_dart",
+			"core_2_chakram",
+			"core_2_vortex_disc",
+			"core_2_slaughter_sword",
+			"core_2_bear_paw_knuckle",
+			"core_2_brass_knuckles",
+			"core_2_spiked_knuckle",
+			"core_2_studded_knuckle",
+			"core_2_iron_fist",
+			"core_2_battle_gauntlet"
+		],
+		"skills": [
+			"core_2_weaponsmith",
+			"core_2_thievery"
+		]
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			12,
+			17
+		],
+		"endurance": [
+			16,
+			22
+		],
+		"intelligence": [
+			7,
+			10
+		],
+		"strength": [
+			23,
+			28
+		],
+		"willpower": [
+			12,
+			16
+		]
+	},
+	"tags": [
+		"9",
+		"26"
+	]
+}

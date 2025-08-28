@@ -1,0 +1,145 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"skills",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "559",
+	"description": "",
+	"dialogues": [
+		"95",
+		"96"
+	],
+	"equipment": {
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "151",
+				"name": "Hammer",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 5,
+		"level": 2
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 456
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 115,
+	"humanoid": {
+		"race": "1"
+	},
+	"id": "725",
+	"minimap_pixel": [
+		171,
+		183,
+		183
+	],
+	"moveable": {
+		"speed": 1.100000023841858
+	},
+	"name": "Dwarf Weaponsmith",
+	"persona": {
+		"occupation": "Weaponsmith"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 8,
+		"threesixty": false
+	},
+	"skills": {
+		"milestones": [
+			"core_2_cleaver",
+			"core_2_weapon_stand",
+			"core_2_light_axe",
+			"core_2_mallet",
+			"core_2_throwing_axe",
+			"core_2_hand_axe",
+			"core_2_double_axe",
+			"core_2_maul",
+			"core_2_battle_axe",
+			"core_2_spark_hammer",
+			"core_2_dwarven_axe",
+			"core_2_war_hammer",
+			"core_2_giant_axe",
+			"core_2_dwarf_bread",
+			"core_2_throwing_hammer",
+			"core_2_great_axe",
+			"core_2_war_axe"
+		],
+		"skills": [
+			"core_2_weaponsmith"
+		]
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			9,
+			14
+		],
+		"endurance": [
+			13,
+			18
+		],
+		"intelligence": [
+			8,
+			11
+		],
+		"strength": [
+			18,
+			21
+		],
+		"willpower": [
+			9,
+			13
+		]
+	},
+	"tags": [
+		"9",
+		"6"
+	]
+}
