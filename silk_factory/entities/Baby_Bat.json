@@ -1,0 +1,153 @@
+{
+	"armor": {
+		"acid": 1,
+		"death": 2,
+		"electricity": -5,
+		"fire": -1,
+		"frost": 0,
+		"holy": -2,
+		"parry": 0,
+		"physical": 1,
+		"poison": 0,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [
+			0
+		],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"producer",
+		"random_resource",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "588",
+	"description": "Cute little creature of the night.",
+	"dialogues": [
+		"28"
+	],
+	"experience_gainer": {
+		"exp": 0,
+		"level": 10
+	},
+	"fighter": {
+		"attackNames": [
+			"Bite",
+			"Wings flap"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 38
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 10,
+	"id": "core_2_Baby_Tamed_Bat",
+	"minimap_pixel": [
+		158,
+		97,
+		43
+	],
+	"moveable": {
+		"speed": 0.699999988079071
+	},
+	"name": "Baby Bat",
+	"producer": {
+		"products": {
+			"core_2_catch_animal": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "core_2_Caught_Baby_Bat",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 0
+	},
+	"random_resource": {
+		"delay_spawn": true,
+		"entity": [
+			"core_2_Bat"
+		],
+		"max_amount": 1,
+		"max_distance": 0,
+		"min_amount": 1,
+		"min_distance": 0,
+		"multiply_same": false,
+		"respawn_rate": 14400.0,
+		"spawn_at": [
+			"core_2_Baby_Tamed_Bat"
+		],
+		"spawn_chance": 100.0,
+		"spawn_multiply": 0.0,
+		"spawn_rolls": 1
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 8,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			8,
+			10
+		],
+		"endurance": [
+			5,
+			8
+		],
+		"intelligence": [
+			4,
+			6
+		],
+		"strength": [
+			8,
+			10
+		],
+		"willpower": [
+			3,
+			6
+		]
+	},
+	"tags": [
+		"2",
+		"9"
+	]
+}
