@@ -1,0 +1,119 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "core_2_Silkworm_Corpse",
+	"description": "Small, beige worm busy with it's life.",
+	"dialogues": [
+		"899"
+	],
+	"equipment": {
+		"disabled_slots": [
+			18,
+			17,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			7,
+			6,
+			5,
+			4,
+			2,
+			1,
+			0
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 10
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 133
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 40,
+	"id": "core_2_Silkworm",
+	"minimap_pixel": [
+		150,
+		80,
+		15
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Silkworm",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 10,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			1,
+			4
+		],
+		"endurance": [
+			7,
+			11
+		],
+		"intelligence": [
+			1,
+			3
+		],
+		"strength": [
+			5,
+			10
+		],
+		"willpower": [
+			1,
+			3
+		]
+	},
+	"tags": [
+		"9",
+		"2"
+	]
+}
