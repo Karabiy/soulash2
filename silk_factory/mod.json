@@ -1,0 +1,12 @@
+{
+	"author": "Vladyslav",
+	"description": "",
+	"game_required": "0.9.8.3",
+	"icon": "thumbnail.png",
+	"mods_required": [
+		"core_2"
+	],
+	"name": "Silk Factory",
+	"thumbnail": "thumbnail.png",
+	"version": "1.0.0"
+}
