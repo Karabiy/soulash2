@@ -1,8 +1,8 @@
 {
-  "id": "309",
+  "id": "10034",
   "image": 138,
-  "name": "Pig Ranch",
-  "occupation": "core_2_Gnoll_Rancher",
+  "name": "Silk Farm",
+  "occupation": "core_2_Gnoll_Silkworker",
   "occupation_per_race": {
     "0": "2265",
     "1": "2267",
@@ -21,66 +21,18 @@
     {
       "entities": [
         {
-          "daily": 3,
-          "id": "318"
-        },
-        {
-          "daily": 0.3,
-          "id": "2124"
+          "daily": 1,
+          "id": "core_2_Silk_Thread"
         },
         {
           "daily": 0.1,
-          "id": "core_2_Caught_Piglet"
+          "id": "core_2_Caught_Silkworm"
         }
       ],
       "takes": [
         {
-          "amount": 2,
-          "id": "800"
-        }
-      ]
-    },
-    {
-      "entities": [
-        {
-          "daily": 3,
-          "id": "318"
-        },
-        {
-          "daily": 0.3,
-          "id": "2124"
-        },
-        {
-          "daily": 0.1,
-          "id": "core_2_Caught_Piglet"
-        }
-      ],
-      "takes": [
-        {
-          "amount": 2,
-          "id": "3093"
-        }
-      ]
-    },
-    {
-      "entities": [
-        {
-          "daily": 3,
-          "id": "318"
-        },
-        {
-          "daily": 0.3,
-          "id": "2124"
-        },
-        {
-          "daily": 0.1,
-          "id": "core_2_Caught_Piglet"
-        }
-      ],
-      "takes": [
-        {
-          "amount": 2,
-          "id": "core_2_Bagasse"
+          "amount": 1,
+          "id": "2365"
         }
       ]
     }
@@ -89,20 +41,20 @@
   "tier": 2,
   "workers": [
     1,
-    4
+    3
   ],
-  "max": 2,
+  "max": 3,
   "allow_player": true,
   "required_entities": [
     {
-      "entities": ["core_2_Pig", "core_2_Piglet"],
-      "count": 4
+      "entities": ["core_2_Silkworm"],
+      "count": 6
     },
     {
       "component": "resting_place",
-      "count": 4
+      "count": 3
     }
   ],
-  "min_area": 50,
-  "group": "food"
+  "min_area": 40,
+  "group": "resources"
 }

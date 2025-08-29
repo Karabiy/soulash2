@@ -18,6 +18,7 @@
 		"moveable",
 		"name",
 		"position_2d",
+		"producer",
 		"sight",
 		"stamina",
 		"statistics",
@@ -79,6 +80,21 @@
 		"speed": 1.0
 	},
 	"name": "Silkworm",
+	"producer": {
+		"products": {
+			"core_2_catch_animal": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "core_2_Caught_Silkworm",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 0
+	},
 	"sight": {
 		"ignore_infra_penalty": false,
 		"infravision": true,
