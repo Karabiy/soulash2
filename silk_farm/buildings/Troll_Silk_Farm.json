@@ -1,0 +1,28 @@
+{
+	"id": "Troll_Silk_Farm",
+	"image": 138,
+	"name": "Silk Farm",
+	"occupation": "core_2_Troll_Rancher",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "core_2_Silk_Thread"
+				},
+				{
+					"daily": 0.1,
+					"id": "core_2_Caught_Silkworm"
+				}
+			],
+			"takes": [
+			]
+		}
+	],
+	"race": "7",
+	"tier": 1,
+	"workers": [
+		1,
+		3
+	]
+}

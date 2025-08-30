@@ -1,0 +1,13 @@
+{
+	"author": "Vladyslav",
+	"description": "Tired of having a need of going to the Jungle and creating a dedicated city there just to get some silk? Always wanted to be a farmer? Always wanted Silkworm pet? Then this mode is for you! This mode will mostly profit people who love being high, since that's just exactly where mulberry is available for your own high hill Silk farm. It's based off Pig Farm, more or less, and since its initial developer has close to no artistic skills icons of Silkworm/Farm itself are currently borrowed from pig farm. Contributions for proper assets would be appreciated! ",
+	"game_required": "0.9.8.3",
+	"icon": "silkworm.png",
+	"mods_required": [
+		"core_2"
+	],
+	"name": "Silkworm Farm",
+	"steam_publish_id": 3558726977,
+	"thumbnail": "silkworm.png",
+	"version": "0.0.1"
+}

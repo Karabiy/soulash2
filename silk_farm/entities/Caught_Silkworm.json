@@ -17,8 +17,8 @@
 	},
 	"id": "core_2_Caught_Silkworm",
 	"item": {
-		"image": 1166,
-		"type": 17
+      "image": 1128,
+      "type": 17
 	},
 	"minimap_pixel": [
 		201,
@@ -44,6 +44,6 @@
 		"spawn_multiply": 0.0,
 		"spawn_rolls": 1
 	},
-	"value": 300,
+	"value": 1000,
 	"weight": 0.05000000074505806
 }
