@@ -1,6 +1,6 @@
 {
   "id": "10034",
-  "image": 138,
+  "image": 103,
   "name": "Silk Farm",
   "occupation": "core_2_Troll_Rancher",
   "occupation_per_race": {
@@ -32,13 +32,13 @@
       "takes": [
         {
           "amount": 1,
-          "id": "core_2_mulberry"
+          "id": "core_2_Mulberry"
         }
       ]
     }
   ],
   "race": "-1",
-  "tier": 2,
+  "tier": 1,
   "workers": [
     1,
     3
