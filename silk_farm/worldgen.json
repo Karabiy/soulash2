@@ -4,10 +4,10 @@
         "land": {
             "peak": 0.02,
             "high_mountain": 0.01,
-            "mountain": 0.48,
-            "hills": 0.16,
+            "mountain": 0.02,
+            "hills": 0.06,
             "desert": 0.3,
-            "grasslands": 0.12,
+            "grasslands": 0.68,
             "swamp": 0.06
         },
         "precipitation": {

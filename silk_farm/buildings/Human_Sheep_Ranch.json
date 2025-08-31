@@ -1,0 +1,38 @@
+{
+	"id": "Human_Sheep_Ranch",
+	"image": 28,
+	"name": "Sheep Ranch",
+	"occupation": "2265",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 4,
+					"id": "318"
+				},
+				{
+					"daily": 1,
+					"id": "176"
+				}
+			],
+			"takes": []
+		},
+		{
+			"entities": [
+				{
+					"daily": 0.1,
+					"id": "core_2_Caught_Lamb"
+				}
+			],
+			"takes": [
+			]
+		}
+	],
+	"race": "0",
+	"max": 3,
+	"tier": 1,
+    "workers": [
+		1,
+		3
+	]
+}
