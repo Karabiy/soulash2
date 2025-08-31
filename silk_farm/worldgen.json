@@ -1,0 +1,35 @@
+{
+    "landmass": 0.6,
+    "biomes": {
+        "land": {
+            "peak": 0.02,
+            "high_mountain": 0.01,
+            "mountain": 0.48,
+            "hills": 0.16,
+            "desert": 0.3,
+            "grasslands": 0.12,
+            "swamp": 0.06
+        },
+        "precipitation": {
+            "forest": 1.5
+        },
+        "temperature": {
+            "tundra": 0.2,
+            "boreal": 0.33,
+            "desert": 0.55,
+            "jungle": 0.7,
+            "savanna": 0.6
+        }
+    },
+    "seaports": {
+        "grasslands": "core_2_pirate_bay_1",
+        "swamp": "core_2_pirate_bay_2",
+        "hills": "core_2_pirate_bay_3",
+        "desert": "core_2_pirate_bay_4",
+        "tundra": "core_2_pirate_bay_5",
+        "savanna": "core_2_pirate_bay_6",
+        "jungle": "core_2_pirate_bay_7",
+        "boreal_forest": "core_2_pirate_bay_8",
+        "forest": "core_2_pirate_bay_9"
+    }
+}
