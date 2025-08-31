@@ -47,7 +47,7 @@
   "allow_player": true,
   "required_entities": [
     {
-      "entities": ["core_2_Silkworm"],
+      "entities": ["core_2_Silkworm_Cocoon"],
       "count": 4
     },
     {
@@ -55,6 +55,6 @@
       "count": 2
     }
   ],
-  "min_area": 40,
+  "min_area": 20,
   "group": "resources"
 }
