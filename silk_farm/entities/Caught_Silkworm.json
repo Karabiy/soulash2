@@ -1,0 +1,49 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"random_resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "A small silkworm carefully contained. If you let it go, it will try to escape back to its natural habitat.",
+	"glyph": {
+		"frames": [],
+		"random_frame_start": false
+	},
+	"id": "core_2_Caught_Silkworm",
+	"item": {
+      "image": 1136,
+      "type": 17
+	},
+	"minimap_pixel": [
+		201,
+		199,
+		185
+	],
+	"name": "Caught Silkworm",
+	"random_resource": {
+		"delay_spawn": true,
+		"entity": [
+			"core_2_Silkworm"
+		],
+		"max_amount": 1,
+		"max_distance": 0,
+		"min_amount": 1,
+		"min_distance": 0,
+		"multiply_same": false,
+		"respawn_rate": 1.0,
+		"spawn_at": [
+			"core_2_Caught_Silkworm"
+		],
+		"spawn_chance": 100.0,
+		"spawn_multiply": 0.0,
+		"spawn_rolls": 1
+	},
+	"value": 1000,
+	"weight": 0.05000000074505806
+}

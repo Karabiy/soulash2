@@ -1,0 +1,45 @@
+[h1]Silkworm Farm[/h1]
+
+Tired of dangerous jungle expeditions just to snag some silk? Ever dreamed of being a silkworm ranch owner? Always wanted adorable wriggly pets that actually pay rent? Then this mod is absolutely for you!
+
+Build your very own Silk Farm where these little silk-spinning superstars munch on mulberry and reward you with precious silk thread! Perfect for mountain folk who enjoy the high life - both altitude-wise AND luxury-wise!
+
+[hr][/hr]
+
+[h2]What You Get[/h2]
+[list]
+[*] [b]Silk Farm Building:[/b] Converts mulberry into silk thread and caught silkworms (1 daily silk thread + 0.1 daily caught silkworms per mulberry)
+[*] [b]Catch Animal Ability:[/b] Catch wild silkworms in the wilderness
+[*] [b]Silkworm Cocoons:[/b] Craft caught silkworms into cocoons (requires Agriculture skill level 16)
+[*] [b]Silk Thread Production:[/b] Process cocoons to get 3-6 silk threads each
+[/list]
+
+[hr][/hr]
+
+[h2]How It Works[/h2]
+[list]
+[*] Find wild silkworms and catch them using the Catch Animal ability
+[*] Build a Silk Farm (requires 4 silkworm cocoons and 2 resting places, minimum 20 area)
+[*] Feed mulberry to your farm to produce silk thread and more caught silkworms
+[*] Craft caught silkworms into cocoons for even more silk production
+[*] Enjoy your spider-free, jungle-free silk empire!
+[/list]
+
+[hr][/hr]
+
+[h2]Important Notes[/h2]
+[list]
+[*] Requires the [b]core_2[/b] mod to function properly
+[*] Works only for people who have mountain-based town with mulberry naturally available as a resource - silkworms love to chew on some mulberry leaves
+[/list]
+
+[hr][/hr]
+
+[h2]Contributing[/h2]
+Contributions for this mod are welcomed at [url=https://github.com/Karabiy/soulash2/]https://github.com/Karabiy/soulash2/[/url]
+
+The mod uses borrowed assets from slug farm due to limited artistic skills of its creator - proper silkworm assets would be greatly appreciated!
+
+Feel free to submit issues, suggestions, or pull requests to help improve this mod!
+
+[i]Say goodbye to sweaty jungle treks and hello to your new hilly silk empire![/i]

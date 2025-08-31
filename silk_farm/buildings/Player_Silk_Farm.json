@@ -1,0 +1,60 @@
+{
+  "id": "10034",
+  "image": 103,
+  "name": "Silk Farm",
+  "occupation": "core_2_Troll_Rancher",
+  "occupation_per_race": {
+    "0": "2265",
+    "1": "2267",
+    "2": "2285",
+    "4": "core_2_Goblin_Rancher",
+    "7": "core_2_Troll_Rancher",
+    "8": "core_2_Orc_Rancher",
+    "10": "2326",
+    "23": "core_2_Reptilion_Rancher",
+    "26": "2370",
+    "31": "core_2_Gnoll_Rancher",
+    "32": "core_2_Mushman_Farmer",
+    "33": "core_2_Ursan_Rancher"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily":  1,
+          "id": "core_2_Silk_Thread"
+        },
+        {
+          "daily": 0.1,
+          "id": "core_2_Caught_Silkworm"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 1,
+          "id": "core_2_Mulberry"
+        }
+      ]
+    }
+  ],
+  "race": "-1",
+  "tier": 1,
+  "workers": [
+    1,
+    3
+  ],
+  "max": 1,
+  "allow_player": true,
+  "required_entities": [
+    {
+      "entities": ["core_2_Silkworm_Cocoon"],
+      "count": 4
+    },
+    {
+      "component": "resting_place",
+      "count": 2
+    }
+  ],
+  "min_area": 20,
+  "group": "resources"
+}

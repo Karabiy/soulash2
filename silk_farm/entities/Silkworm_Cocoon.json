@@ -1,0 +1,83 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": -10,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": -5,
+		"poison": 5,
+		"thorns": 0
+	},
+	"category_id": 5,
+	"components": [
+		"armor",
+		"block_light",
+		"collidable",
+		"craftable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [
+		{
+			"damage_type": 0,
+			"id": "25"
+		}
+	],
+	"craftable": {
+		"magic_slots": 0,
+		"resource_types": [],
+		"resources": [
+			{
+				"amount": 1,
+				"id": "core_2_Caught_Silkworm"
+			}
+		],
+		"time": 20,
+		"tools": []
+	},
+	"description": "Silky cocoon of a silkworm.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2524
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 40,
+	"id": "core_2_Silkworm_Cocoon",
+	"minimap_pixel": [
+		255,
+		255,
+		255
+	],
+	"name": "Silkworm Cocoon",
+	"producer": {
+		"products": {
+			"10": [
+				{
+					"amount": [
+						3,
+						6
+					],
+					"id": "core_2_Silk_Thread",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 30
+	}
+}

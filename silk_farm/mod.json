@@ -1,0 +1,13 @@
+{
+	"author": "Vladyslav",
+	"description": "Tired of dangerous jungle expeditions just to snag some silk? Ever dreamed of being a silkworm ranch? Always wanted adorable wriggly pets that actually pay rent? Then this mod is absolutely for you! Build your very own Silk Farm where these little silk-spinning superstars munch on mulberry and reward you with precious silk thread! Catch wild silkworms (they're surprisingly cooperative), craft them cozy cocoons, and watch the magic happen. Perfect for mountain folk who enjoy the high life - both altitude-wise AND luxury-wise! Say goodbye to sweaty jungle treks and hello to your new silk empire!",
+	"game_required": "0.9.8.3",
+	"icon": "silkworm.png",
+	"mods_required": [
+		"core_2"
+	],
+	"name": "Silkworm Farm",
+	"steam_publish_id": 3558726977,
+	"thumbnail": "silkworm.png",
+	"version": "0.0.1"
+}
