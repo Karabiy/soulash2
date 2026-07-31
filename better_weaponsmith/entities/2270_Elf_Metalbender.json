@@ -1,0 +1,159 @@
+{
+	"artificial_intelligence": {
+		"allies": [
+			"7"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"skills",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "322",
+	"description": "",
+	"dialogues": [
+		"424",
+		"425"
+	],
+	"equipment": {
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "151",
+				"name": "Hammer",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 10,
+		"level": 2
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 17
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 95,
+	"humanoid": {
+		"race": "2"
+	},
+	"id": "2270",
+	"minimap_pixel": [
+		95,
+		105,
+		15
+	],
+	"moveable": {
+		"speed": 1.100000023841858
+	},
+	"name": "Elf Metalbender",
+	"persona": {
+		"occupation": "Metalbender"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 12,
+		"threesixty": false
+	},
+	"skills": {
+		"milestones": [
+			"core_2_knife",
+			"core_2_hammer",
+			"core_2_dart",
+			"core_2_brass_knuckles",
+			"core_2_dagger",
+			"core_2_short_sword",
+			"core_2_gladius",
+			"core_2_sword",
+			"core_2_rapier",
+			"core_2_sabre",
+			"core_2_katana",
+			"core_2_snake_sword",
+			"core_2_flame_sword",
+			"core_2_longsword",
+			"core_2_jeweled_dagger",
+			"core_2_runic_dagger",
+			"core_2_pharaoh_dagger",
+			"core_2_ceremonial_dagger",
+			"core_2_assasin_blade",
+			"core_2_khopesh",
+			"core_2_toothed_sword",
+			"core_2_metal_bra",
+			"core_2_diadem",
+			"core_2_decorated_bracers",
+			"core_2_ornament_shield",
+			"core_2_manicles",
+			"core_2_crown",
+			"core_2_crown_armor"
+		],
+		"skills": [
+			"core_2_weaponsmith",
+			"core_2_armorsmith"
+		]
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			14,
+			18
+		],
+		"endurance": [
+			20,
+			24
+		],
+		"intelligence": [
+			10,
+			14
+		],
+		"strength": [
+			30,
+			34
+		],
+		"willpower": [
+			23,
+			27
+		]
+	},
+	"tags": [
+		"7",
+		"9"
+	]
+}

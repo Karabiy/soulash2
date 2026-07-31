@@ -32,6 +32,16 @@ Every weaponsmith now has access to essential basic weapons while maintaining th
 
 [hr][/hr]
 
+[h1]Elf & Bone Wraith Support[/h1]
+[b]Elves and Bone Wraiths have no dedicated Weaponsmith in the base game[/b] - they use hybrid crafters instead. This mod now enhances those too, keeping their original armor/spear recipes and dual professions while adding the essential basic weapons and a themed weapon line:
+[list]
+[*] 🧝 [b]Elf Metalbender:[/b] [i]Elegant Bladesmith[/i] - a weapon/armor crafter. Weapon knowledge expanded from 5 to 21 recipes (basics + a full elven blade line), all 7 signature armor pieces preserved.
+[*] 💀 [b]Bone Wraith Spearmaker:[/b] [i]Spear & Polearm Master[/i] - keeps its carpentry spears and adds basics plus metal polearms (18 weaponsmith recipes).
+[*] 💀 [b]Bone Wraith Smith:[/b] [i]Bone & Dark Weapons[/i] - keeps its shields/scale armor and adds basics plus a full bone/dark weapon line (21 weaponsmith recipes).
+[/list]
+
+[hr][/hr]
+
 [h1]Installation[/h1]
 [olist]
 [*] Place this mod in your Soulash 2 mods folder.
